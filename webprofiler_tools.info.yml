@@ -1,0 +1,7 @@
+name: Webprofiler Tools
+description: Provides advanced tools to profile your drupal site.
+core: 8.x
+type: module
+dependencies:
+  - drupal:devel
+  - drupal:webprofiler
